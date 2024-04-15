@@ -42,4 +42,4 @@ I am not saying that I own Flex, or the rights to it, nor the rights to distribu
 [The license in this reposity was taken from the official NVIDIA reposity for the downloadable Flex demo]
 
 THIS IS ONLY FOR RESEARCH, EDUCATIONAL AND TESTING PURPOSES.
-## *USING THIS PACKAGE FOR ANY SORT OF COMMERCIAL MAY BREAK NVIDIA'S LICENSING TERMS
+## *USING THIS PACKAGE FOR ANY SORT OF COMMERCIAL PROJECT MAY BREAK NVIDIA'S LICENSING TERMS
